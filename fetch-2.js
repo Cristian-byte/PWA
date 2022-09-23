@@ -1,5 +1,5 @@
 
-//Peticion GET/
+//Peticion GET
 //https://regres.in/api/users
 
 fetch( 'https://reqres.in/api/users' )
